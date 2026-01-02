@@ -69,5 +69,3 @@ The app uses two main relational tables:
 - **Users**: Stores encrypted credentials.
 - **Todos**: Stores tasks linked to specific users via `userId`.
 
----
-Developed with ❤️ by Antigravity AI
