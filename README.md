@@ -47,11 +47,16 @@ npm run dev
 
 ## 📸 Screenshots
 
-*(Add your screenshots here after placing them in the `/screenshots` folder)*
-
-| Login Page | Dashboard |
+### Authentication
+| Login Page | Register Page |
 | :---: | :---: |
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](./screenshots/Login_page.png) | ![Register](./screenshots/Register_page.png) |
+
+### Dashboard & Operations
+| Dashboard | Delete Confirmation | Delete Success |
+| :---: | :---: | :---: |
+| ![Dashboard](./screenshots/Dashboard.png) | ![Delete](./screenshots/Delete_confirmation.png) | ![Success](./screenshots/Delete_Success.png) |
+
 
 ## 📁 Project Structure
 
